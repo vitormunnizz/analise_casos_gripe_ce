@@ -20,5 +20,18 @@ Este projeto é um painel interativo desenvolvido com Streamlit para análise de
   - Matplotlib
   - Seaborn
 
-## Contato
-Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizzdev@gmail.com.
+## 👨‍💻 Autor
+
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro da Computação | Desenvolvedor Front-end
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
