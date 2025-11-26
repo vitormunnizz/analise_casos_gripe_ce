@@ -21,4 +21,4 @@ Este projeto é um painel interativo desenvolvido com Streamlit para análise de
   - Seaborn
 
 ## Contato
-Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizz@gmail.com.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizzdev@gmail.com.
